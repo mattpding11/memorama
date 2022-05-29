@@ -1,4 +1,4 @@
-# Juego Memorama con Windows Form 
+# Juego Memorama con Windows Form C#
 
 Aplicación de escritorio para jugar memorama
 
