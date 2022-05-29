@@ -1,2 +1,3 @@
-# memorama
-Juego de memorama creado en visual studio con c#
+# Juego Memorama con Windows Form 
+
+Aplicación de escritorio para jugar memorama
